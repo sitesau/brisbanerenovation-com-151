@@ -1,0 +1,22 @@
+{
+  "wheel_id": 399,
+  "structure": "umbrella",
+  "slug": "brisbanerenovation-com-151",
+  "project": "renovation-builders-brisbane-1a6d97871fa7e5d73904893f86002aea35",
+  "parent_t1_ref": "brisbanerenovation.com-010",
+  "node_role": "buffer",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "renovation builders brisbane",
+  "intended_url": "https://sitesau.github.io/brisbanerenovation-com-151/",
+  "tier": "T2",
+  "writeback_nonce": "da5fdc2b3587ccbf",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/renovation-builders-brisbane/",
+      "anchor": "more on renovation builders brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
